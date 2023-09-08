@@ -1,0 +1,106 @@
+D:\CTest\C#Project\코딩타자연습게임\bin\Debug\코딩타자연습게임.exe.config
+D:\CTest\C#Project\코딩타자연습게임\bin\Debug\코딩타자연습게임.exe
+D:\CTest\C#Project\코딩타자연습게임\bin\Debug\코딩타자연습게임.pdb
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.SuggestedBindingRedirects.cache
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.Form1.resources
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.exe
+D:\CTest\C#Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.pdb
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\bin\Debug\코딩타자연습게임.exe.config
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\bin\Debug\코딩타자연습게임.exe
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\bin\Debug\코딩타자연습게임.pdb
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.Form1.resources
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.exe
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\obj\Debug\코딩타자연습게임.pdb
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임\bin\Debug\Resources\img1.png
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\bin\Debug\Resources\img1.png
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe.config
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.pdb
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.exe
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.pdb
+C:\Users\choih\source\repos\C-Project\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Form.resources
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\img1.png
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe.config
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.pdb
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Form.resources
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.exe
+C:\Users\KOSTA\Desktop\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.pdb
+C:\Users\choih\source\repos\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\choih\source\repos\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.exe
+C:\Users\choih\source\repos\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.pdb
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\img1.png
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\easywords.txt
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\hardwords.txt
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\keyboard.png
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\iced-coffee.png
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\tumbler.png
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe.config
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.pdb
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Form.resources
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.exe
+C:\Users\KOSTA\Downloads\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.pdb
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\img1.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\easywords.txt
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\hardwords.txt
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\keyboard.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\iced-coffee.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\tumbler.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe.config
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.exe
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\코딩타자연습게임.pdb
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Form.resources
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.exe
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\obj\Debug\코딩타자연습게임.pdb
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\bug_black.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\bug_white.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\coding-language.png
+C:\Users\choih\OneDrive\바탕 화면\C-Project-main\코딩타자연습게임 - 복사본\bin\Debug\Resources\programming.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.exe
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.pdb
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\img1.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\easywords.txt
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\hardwords.txt
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\keyboard.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\iced-coffee.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\tumbler.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\bug_black.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\bug_white.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\coding-language.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\Resources\programming.png
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\코딩타자연습게임.exe.config
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\코딩타자연습게임.exe
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\bin\Debug\코딩타자연습게임.pdb
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.Form.resources
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.Properties.Resources.resources
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.csproj.GenerateResource.cache
+C:\Users\KOSTA\Desktop\Project_.NET-Framework_SpeedyCoding-main\Project_.NET-Framework_SpeedyCoding-main\코딩타자연습게임-SpeedyCoding\obj\Debug\코딩타자연습게임.csproj.CoreCompileInputs.cache

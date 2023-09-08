@@ -1,0 +1,100 @@
+Form myForm = new Form();
+Button myButton = new Button();
+myForm.Controls.Add(myButton);
+myButton.Text = "Click Me";
+myButton.Location = new Point(10, 10);
+myButton.Click += MyButton_Click;
+MessageBox.Show("HelloWorlds!");
+string inputText = textBox1.Text;
+if (openFileDialog.ShowDialog == DialogResult.OK)
+string selectedFilePath = openFileDialog.FileName;
+string inputText = textBox1.Text;
+listBox1.Items.Add("Item 1");
+int selectedIndex = listBox1.SelectedIndex;
+Timer myTimer = new Timer();
+myTimer.Interval = 1000;
+myTimer.Tick += MyTimer_Tick;
+myTimer.Start();
+myButton.Click += new EventHandler(Button_Click);
+myForm.Text = "My Form";
+myForm.Size = new Size(300, 200);
+ComboBox comboBox = new ComboBox();
+comboBox.Items.Add("Item 1");
+comboBox.Items.Add("Item 2");
+ListView listView = new ListView();
+Label myLabel = new Label();
+MenuStrip menuStrip = new MenuStrip();
+myForm.Controls.Add(menuStrip);
+ToolStripMenuItem menuItem
+new ToolStripMenuItem("File");
+menuStrip.Items.Add(menuItem);
+menuItem.Click += new EventHandler(MenuItem_Click);
+PictureBox pictureBox = new PictureBox();
+pictureBox.Image = Image.FromFile("image.jpg");
+RadioButton radioButton = new RadioButton();
+radioButton.CheckedChanged
+new EventHandler(RadioButton_CheckedChanged);
+if (colorDialog.ShowDialog() == DialogResult.OK)
+myForm.BackColor = colorDialog.Color;
+TabControl tabControl = new TabControl();
+myForm.Controls.Add(tabControl);
+TabPage tabPage = new TabPage("Tab 1");
+tabControl.TabPages.Add(tabPage);
+DataGridView dataGridView = new DataGridView();
+myForm.Controls.Add(dataGridView);
+ListBox listBox = new ListBox();
+myForm.Controls.Add(listBox);
+listBox.Items.Add("Item 1");
+listBox.Items.Add("Item 2");
+CheckBox checkBox = new CheckBox();
+myForm.Controls.Add(checkBox);
+myForm.Controls.Add(comboBox);
+comboBox.DataSource = dataSource;
+comboBox.DisplayMember = "PropertyName";
+Panel panel = new Panel();
+myForm.Controls.Add(panel);
+myForm.Load += new EventHandler(Form_Load);
+string userInput = Console.ReadLine();
+int intValue = Convert.ToInt32(userInput);
+double doubleValue = Convert.ToDouble(userInput);
+Console.WriteLine("Hello, Console!");
+Console.WriteLine("Value: {0}", intValue);
+Console.WriteLine($"Double Value: {doubleValue}");
+Console.Clear();
+ConsoleKeyInfo keyInfo = Console.ReadKey();
+Thread.Sleep(1000);
+Environment.Exit(0);
+for (int i = 0; i < length; i++){}
+while (condition){}
+foreach (int item in myArray){}
+int[] myArray = { 1, 2, 3, 4, 5 };
+MyMethod();
+DateTime now = DateTime.Now;
+int? nullableValue = null;
+break;
+string result = "Hello " + name + "!";
+string.Format("Value: {0}", value);
+for (int j = 0; j < columns; j++){}
+Console.WriteLine("Line 1" + Environment.NewLine + "Line 2");
+foreach (var item in myArray){}
+foreach (var item in myList){}
+foreach (var item in myCollection)
+Tuple<string, int> result = new Tuple<string, int>("Value", 42);
+bool isEqual = string1.Equals(string2, StringComparison.OrdinalIgnoreCase);
+if (breakCondition){}
+if (skipCondition){}
+string message = $"I am {age} years old.";
+string upperText = text.ToUpper();
+string subString = text.Substring(7, 5);
+string result = (condition) ? "True" : "False";
+string[] words = { "Hello", "C#", "World" };
+string joinedText = string.Join(" ", words);
+DateTime currentDate = DateTime.Now;
+string formattedDate = currentDate.ToString("yyyy-MM-dd");
+double squareRoot = Math.Sqrt(25);
+double power = Math.Pow(2, 3);
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Red Text");
+Console.ResetColor();
+DateTime endTime = DateTime.Now;
+TimeSpan duration = endTime - startTime;
